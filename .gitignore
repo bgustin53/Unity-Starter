@@ -26,6 +26,7 @@ ExportedObj/
 
 # Maya Raw Data
 *.mb
+*.mp.meta
 
 # Unity3D generated meta files
 *.pidb.meta
